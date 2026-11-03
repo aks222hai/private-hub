@@ -1,8 +1,12 @@
-name = "private-hub"
+name = "private-hub2"
+main = "src/worker.js"
 compatibility_date = "2024-11-01"
-pages_build_output_dir = "public"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "hub"
-database_id = "यहाँ-D1-का-ID-पेस्ट-करें"
+database_id = "2348f5bd-63e6-465c-88bf-bd1930da6917"
