@@ -1,0 +1,8 @@
+name = "private-hub"
+compatibility_date = "2024-11-01"
+pages_build_output_dir = "public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "hub"
+database_id = "यहाँ-D1-का-ID-पेस्ट-करें"
